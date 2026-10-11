@@ -8,6 +8,7 @@ Solved problem
 | ------- | ------- |
 | [0015-3sum](https://github.com/Bipul2026-star/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Bipul2026-star/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/Bipul2026-star/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0815-bus-routes](https://github.com/Bipul2026-star/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bipul2026-star/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -47,6 +48,7 @@ Solved problem
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0636-exclusive-time-of-functions](https://github.com/Bipul2026-star/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
