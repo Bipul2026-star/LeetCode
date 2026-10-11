@@ -13,6 +13,7 @@ Solved problem
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bipul2026-star/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bipul2026-star/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,8 @@ Solved problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bipul2026-star/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
