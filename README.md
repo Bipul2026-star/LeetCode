@@ -10,6 +10,7 @@ Solved problem
 | [0049-group-anagrams](https://github.com/Bipul2026-star/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Bipul2026-star/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0815-bus-routes](https://github.com/Bipul2026-star/LeetCode/tree/main/0815-bus-routes/) | Hard |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bipul2026-star/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Hash Table
@@ -50,6 +51,7 @@ Solved problem
 | ------- | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/Bipul2026-star/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -73,4 +75,8 @@ Solved problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0815-bus-routes](https://github.com/Bipul2026-star/LeetCode/tree/main/0815-bus-routes/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
