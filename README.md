@@ -12,6 +12,7 @@ Solved problem
 | [0815-bus-routes](https://github.com/Bipul2026-star/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bipul2026-star/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bipul2026-star/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipul2026-star/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bipul2026-star/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bipul2026-star/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -35,6 +36,7 @@ Solved problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bipul2026-star/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipul2026-star/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Solved problem
 | [0049-group-anagrams](https://github.com/Bipul2026-star/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bipul2026-star/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Bipul2026-star/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Bipul2026-star/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
